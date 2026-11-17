@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Name": "Move Window and Focus to Desktop",
+        "Description": "Moves the active window to a desktop and switches focus to that desktop, including back and forth to the previous desktop",
+        "Icon": "preferences-system-windows",
+        "Authors": [{
+            "Name": "FirthR5"
+        }],
+        "Id": "movewindowandfocus",
+        "Version": "1.3",
+        "License": "GPLv3",
+        "Website": "https://github.com/FirthR5/kwin-movewindowandfocus"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}
